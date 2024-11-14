@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BenTAndo AKA Ben Anderson
+- 👀 I work for a mid-sized Saas company and am in charge of growing the team
+- 🌱 We are doing all greenfield development in the Microsoft stack with a lot of work in Azure
+- 💞️ I’m looking to find driven Sr. Developers who want to make a difference in their role
+- 📫 How to reach me? Ben.Anderson@questanalytics.com or add me on LinkedIn: https://www.linkedin.com/in/ben-anderson-816380172/
